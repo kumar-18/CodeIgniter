@@ -1,1 +1,5 @@
 This is a static home page using code igniter.
+
+Extract the zip file.
+Find file in controllers folder named as Task1_Static
+Find files in Views folder like header.php,content.php etc..
